@@ -1,5 +1,5 @@
 require(shiny)          # Shinyapp fxns
-require(rsconnect)      # apps for Shinyapps
+#require(rsconnect)      # apps for Shinyapps
 require(DT)             # Wrapper for JavaScript Library 'datatables'
 require(shinyTime)      # time input widget for Shiny
 require(shinyjs)        # improvement of UI for Shinyapps
@@ -10,7 +10,7 @@ library(tidyverse)      # data manipulation
 library(shinyalert)     # creates popup messages for Shiny
 library(shinythemes)
 library(lubridate)
-library(shinyFiles)
+#library(shinyFiles)
 
 
 
